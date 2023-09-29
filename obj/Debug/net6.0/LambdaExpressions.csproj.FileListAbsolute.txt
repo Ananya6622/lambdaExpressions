@@ -1,0 +1,4 @@
+C:\Users\anany\source\repos\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anany\source\repos\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\anany\source\repos\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.AssemblyInfo.cs
+C:\Users\anany\source\repos\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.csproj.CoreCompileInputs.cache
